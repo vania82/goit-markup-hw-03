@@ -359,6 +359,7 @@ h1,h2,h3,h4,h5,h6,p {
     background-color: #2e2f42;
     padding-top: 100px;
     padding-bottom: 100px;
+    display: inline-block;
 }
 
 .container-footer {
@@ -380,7 +381,7 @@ h1,h2,h3,h4,h5,h6,p {
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 16px;
-    display: inline-flex;
+    
     
 }
 
