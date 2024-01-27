@@ -324,6 +324,7 @@ h1,h2,h3,h4,h5,h6,p {
 .name-portfolio {
     background: var(--WHITE, #FFF);
     border: 1px solid var(--CORNFLOWER, #E7E9FC);
+    border-top: none;
     width: calc((100% - 48px) /3);
     flex-direction: column;
     align-items: flex-start;
@@ -350,7 +351,7 @@ h1,h2,h3,h4,h5,h6,p {
     font-weight: 500;
     line-height: 1.2;
     letter-spacing: 0.02em;
-    margin-bottom: 8px;
+    margin-bottom: 72px;
 }
 
 .footer {
@@ -378,10 +379,10 @@ h1,h2,h3,h4,h5,h6,p {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
+    margin-bottom: 16px;
 }
 
 .footer-logo-studio {
-    display: inline-block;
     color: #f4f4fd;
     font-family: "Raleway", sans-serif;
     font-size: 18px;
@@ -390,7 +391,7 @@ h1,h2,h3,h4,h5,h6,p {
     line-height: 1.17;
     letter-spacing: 0.03em;
     text-transform: uppercase;
-    margin-bottom: 16px;
+    
     
 }
 
